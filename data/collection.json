@@ -1,0 +1,13 @@
+{
+  "schema": "soberenz.supplied-scripts.v1",
+  "title": "Speech scripts supplied by Louis",
+  "archive_filename": "sobergenz_speech_database_120 (1).zip",
+  "archive_sha256": "ffada5863edb9ff31e19fa12ea3791f60f051d5477e73c6dea3df54a4d86f617",
+  "records_sha256": "89dff67a157a3492729efa6ecc8e8cc5b8b5ff936274dc409afa1c351615fda9",
+  "script_count": 120,
+  "topic_count": 30,
+  "audience_count": 4,
+  "records_url": "data/supplied-scripts.json",
+  "archive_url": "data/original-archive.zip",
+  "documentation_url": "data/original-documentation.md"
+}
